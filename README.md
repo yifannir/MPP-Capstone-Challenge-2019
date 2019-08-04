@@ -15,9 +15,8 @@ the frame as below
 
 ## evalute result
 
-
-| BEST SCORE |CURRENT RANK  | COMPETITORS |
-| --- | --- | --- |
-| 0.86 | 13 |246  |
+<center class="half">
+    <img src="https://github.com/yifannir/MPP-Capstone-Challenge-2019/blob/master/score.png" width="66%"/>
+</center>
 
 
