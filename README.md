@@ -9,9 +9,9 @@ this problem can be discribe as an simple image classifier project, for detail h
 we use cnn model to get the feature, and use image enhance to reduce variance. 
 the frame as below
 
-
-
-
+<center class="half">
+    <img src="https://github.com/yifannir/MPP-Capstone-Challenge-2019/blob/master/model.png" width="66%"/>
+</center>
 
 ## evalute result
 
